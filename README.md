@@ -1,4 +1,4 @@
-# Laser-turret
+
 # Laser Turret
 
 This is my two-axis (pan-tilt) laser turret controlled via an ESP32-C3 Wi-Fi web server. I built this for Hack Club to combine mechatronics with web programming, allowing everything to be controlled directly from a phone or computer.
@@ -25,3 +25,18 @@ The ESP32 creates its own Access Point. Once you connect to the network and open
 | USB-C Cable | 1 | For power supply and code uploading |
 
 I plan to add more features soon and finalize the physical 3D enclosure. That is all for now!
+
+![Screenshot 2026-10-18 203529](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/lRMIp8aqG3JiBzrQDmvJD3ywxhJGQtjw/10911c6fc90fd641bfeddca447af5613e97caa1102432db787c4ee6e9213cfcd.png)
+
+![Screenshot 2026-10-18 203533](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/lRMIp8aqG3JiBzrQDmvJD3ywxhJGQtjw/3e827c95f7d6e53c3f6c991bd48aef812940a5088cc5b1706294b7e848653a3d.png)
+
+![Screenshot 2026-10-18 202913](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/lRMIp8aqG3JiBzrQDmvJD3ywxhJGQtjw/17b112bc7e69b35bbb811f48b8ba2e0938613a6b15e6a5eb9dd077071c1d2d23.png)
+
+![Screenshot 2026-10-18 202919](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/lRMIp8aqG3JiBzrQDmvJD3ywxhJGQtjw/dc81507edaaf87f4c3c6c29b8697dce7418559601bd10d2a2ccac685bec0c385.png)
+
+![Screenshot 2026-10-18 202926](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/lRMIp8aqG3JiBzrQDmvJD3ywxhJGQtjw/c1bd079edafd943f4ff488b7bc4aad34887e9ca1c4e758512ae8d44388b031fb.png)<img width="1160" height="857" alt="Screenshot 2026-10-18 202919" src="https://github.com/user-attachments/assets/6e3153dc-a1bc-4f50-823f-e0384624e80b" />
+<img width="1189" height="951" alt="Screenshot 2026-10-18 203529" src="https://github.com/user-attachments/assets/4a6f8299-10c5-4f23-b7ca-1957d525dba5" />
+<img width="1312" height="1068" alt="Screenshot 2026-10-18 202926" src="https://github.com/user-attachments/assets/4cddcd48-5294-4b7f-873d-293733f074d9" />
+<img width="1291" height="947" alt="Screenshot 2026-10-18 204023" src="https://github.com/user-attachments/assets/bbbbc359-6f71-4eb8-8cf1-dad2282f5d3a" />
+<img width="1212" height="1066" alt="Screenshot 2026-10-18 203533" src="https://github.com/user-attachments/assets/6f5931eb-561b-4b71-93d7-d99bfa71a63b" />
+
